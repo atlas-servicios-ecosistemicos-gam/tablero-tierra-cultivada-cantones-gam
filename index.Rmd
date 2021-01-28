@@ -1,5 +1,5 @@
 ---
-title: "Cobertura de tierra cultivada por cantón en la Gran Área Metropolitana"
+title: "Superficie de tierra cultivada por cantón en la Gran Área Metropolitana"
 output: 
   flexdashboard::flex_dashboard:
     orientation: rows
