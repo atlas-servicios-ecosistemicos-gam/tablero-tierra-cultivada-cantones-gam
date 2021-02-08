@@ -187,7 +187,7 @@ Row {data-height=350}
 ### Cobertura mínima {.value-box} {data-width=200}
 ```{r}
 valueBox(value = "Mínimo", 
-  caption = "<h2><strong>San José: 0.2 %</strong></h2>"
+  caption = "<h2><strong>Tibás: 0.1 %</strong></h2>"
 )
 ```
 
