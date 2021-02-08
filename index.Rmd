@@ -186,21 +186,21 @@ Row {data-height=350}
 
 ### Cobertura mínima {.value-box} {data-width=200}
 ```{r}
-valueBox(value = "Cobertura mínima", 
+valueBox(value = "Mínimo", 
   caption = "<h2><strong>San José: 0.2 %</strong></h2>"
 )
 ```
 
 ### Cobertura máxima {.value-box} {data-width=200}
 ```{r}
-valueBox(value = "Cobertura máxima", 
+valueBox(value = "Máximo", 
   caption = "<h2><strong>Poás: 42.2 %</strong></h2>"
 )
 ```
 
 ### Cobertura promedio {.value-box} {data-width=200}
 ```{r}
-valueBox(value = "Cobertura promedio", 
+valueBox(value = "Promedio", 
   caption = "<h2><strong>10.2 %</strong></h2>"
 )
 ```
