@@ -186,22 +186,22 @@ Row {data-height=350}
 
 ### Cobertura mínima {.value-box} {data-width=200}
 ```{r}
-valueBox(value = "San José: 0.2 %", 
-  caption = "Cobertura mínima"
+valueBox(value = "Cobertura mínima", 
+  caption = "<h2><strong>San José: 0.2 %</strong></h2>"
 )
 ```
 
 ### Cobertura máxima {.value-box} {data-width=200}
 ```{r}
-valueBox(value = "Poás: 42.2 %", 
-  caption = "Cobertura máxima"
+valueBox(value = "Cobertura máxima", 
+  caption = "<h2><strong>Poás: 42.2 %</strong></h2>"
 )
 ```
 
 ### Cobertura promedio {.value-box} {data-width=200}
 ```{r}
-valueBox(value = "10.2 %", 
-  caption = "Cobertura promedio de la GAM"
+valueBox(value = "Cobertura promedio", 
+  caption = "<h2><strong>10.2 %</strong></h2>"
 )
 ```
 
